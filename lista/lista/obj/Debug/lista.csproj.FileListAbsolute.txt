@@ -1,0 +1,7 @@
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\bin\Debug\lista.exe.config
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\bin\Debug\lista.exe
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\bin\Debug\lista.pdb
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\obj\Debug\lista.csprojResolveAssemblyReference.cache
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\obj\Debug\lista.exe
+E:\4º Semestre\Estrutura de Dados II\Lista\lista\lista\obj\Debug\lista.pdb
